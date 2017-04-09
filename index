@@ -1,0 +1,288 @@
+
+
+
+
+
+
+
+
+<head>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
+ <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina" rel="stylesheet"> 
+  <link href="https://www.w3schools.com/w3css/w3css_buttons.asp" rel="stylesheet">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
+  <link href="https://fonts.googleapis.com/css?family=Francois+One|Indie+Flower|PT+Sans+Caption|Play|Quicksand|Raleway|Shadows+Into+Light" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+</head>
+
+
+<body style="background-color:black;"> 
+<style>
+
+
+#linkedinicon {
+  color: rgb(0, 127, 178);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  border: 1px solid #555;
+  height: 100px;
+  font-family: 'PT Sans Caption', sans-serif;
+  width: 100%;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li:last-child {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: orange;
+  padding: 20px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+li a:hover {
+  background-color: black;
+  color: white;
+}
+.lolo {
+  color:orange;
+}
+.loloo{
+  color:white;
+}
+
+}
+
+.active {
+  background-color: #228B22;
+  color: white;
+}
+
+.border {
+  border-right: 1px solid #555;
+}
+
+.borderl {
+  border-left: 1px solid #555;
+  font-family: 'Indie flower', cursive;
+}
+  .okk {
+        
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/69/b6/50/69b650cb7733511d2a57e7d37d28d241.jpg");
+    background-size: cover;
+  }
+.oh{
+  
+      border-width: 5px;
+    border-style: solid;
+  border-color:green;
+     
+  height:400px;
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:50%;
+
+    margin: auto;
+  
+}
+.me {
+  font-family: 'PT Sans Caption', sans-serif;
+  color:black;
+         text-shadow: 2px 2px #ff0000;
+
+}
+
+.ohyeah{
+  margin-top:5%;
+  margin-bottom:5%;
+}
+.lal {
+  margin-top:2%;
+}
+.mehead {
+  
+    font-family: 'Baloo Bhaina', cursive;
+      text-shadow: 2px 2px 8px #FF0000;
+
+
+}
+.portback {
+ background-image: url("http://passportto.iberostar.com/wp-content/uploads/2015/01/MED_sunny-beach-bulgaria.jpg");
+  background-size:cover;
+       background-size: 100% 100%;
+
+}
+.portfont{
+  
+     font-family: 'Baloo Bhaina', cursive;
+  color:white;
+      text-shadow: 2px 2px 8px #FF0000;
+
+
+}
+.portbody {
+  
+
+  font-family: 'PT Sans Caption', sans-serif;
+  color:white;
+  background-size:cover;
+       text-shadow: 2px 2px #ff0000;
+}
+.ohyo{
+  margin-left:1%;
+    
+  margin-right:1%;
+}
+
+.contback{
+ background-image: url("http://excitelt.com/i/2017/03/night-beach-wallpaper.jpg");
+background-size:cover;
+     background-size: 100% 100%;
+
+padding: 50px;
+}
+.padding
+  {
+    padding-top: 0px;
+    padding-right: 400px;
+    padding-bottom: 20px;
+    padding-left: 90px;
+}
+.lol{
+  color:white;
+  padding-top: 0px;
+
+       text-shadow: 2px 2px #ff0000;
+}
+
+.pdg{
+  width:200px;
+  margin-bottom:25px;
+}
+.btn-default{
+  border: 2px solid #a1a1a1;
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 300px;
+    border-radius: 25px;
+    height: 100px;
+}
+.hmm{
+  padding-top:280px;       
+  text-align: center;
+  color:white;
+      text-shadow: 2px 2px 8px #FF0000;
+
+}
+.ohoo {
+  padding-bottom:200px;
+  padding-right:300px;
+  padding-left:300px;
+  padding-top:80px;
+
+  
+}
+.k {
+  color:white;
+}
+
+
+
+
+
+
+
+
+
+</style>
+  <div class="container-fluid">
+    <ul>
+      <li><a class="border" href="#contact"><h3>Contact</h3></a></li>
+      <li><a class="border" href="#portfolio"><h3>Portfolio</h3></a></li>
+      <li><a class="border active" href="#about"><h3>About</h3></a></li>
+      <li><a class="borderl" href="#about"><h2>Rishabh Budhiraja</h2></a></li>
+    </ul>
+    <br>
+    <br>
+    <div class="row lal" id="about">
+      <div class="okk">
+        <div class="row ohyeah">
+          <div class="col-xs-6">
+            <font size="6" class="mehead">All you need to know:</font><hr><br><br><br><br> <h1 class="me">
+        Pursuing B-tech (CSE), I’m studying in Northern India Engineering College. It’s just my first year. I aim to become an experienced full stack web developer by the end of this year and complete as many non-profit projects as I can. I’ve already paced myself up and I hope you like my work. I’ll try to keep it as original as possible. <br>
+Let’s learn together, grow together.
+<br><br>
+              More to come.
+            </h1></div>
+          <div class="col-xs-4">
+      
+              <a href="#contact"> <img class="oh" src="https://scontent-sin6-1.cdninstagram.com/t51.2885-15/e35/16788673_1127021314090358_8108587024337862656_n.jpg" alt="Rishabh Budhiraja"></a></div>
+            </div>
+          </div>
+        </div>
+      </div><br><br><br>
+  <div class="row portback" id="portfolio">
+  
+    <div class="ohyo">
+    <font size="7" class="portfont ohyo">
+      Projects I Have Completed
+      </font><br><br><br>
+      <font size="7" class="portbody">
+        Honestly, as you can see, there's not much that I've done
+        but I am sure, much more is coming and it's coming soon,
+        so stay updated guys.<br>
+        Trust me, you want to keep tabs on me.  (No pun intended) </font> <br><br>
+     
+    <div class="ohoo">  <p data-height="385" data-theme-id="dark" data-slug-hash="qroZKP" data-default-tab="result" data-user="rbrishabh" data-embed-version="2" data-pen-title="TRIBUTETOADAM" class="codepen ohoo">See the Pen <a href="http://codepen.io/rbrishabh/pen/qroZKP/">TRIBUTETOADAM</a> by Rishabh  (<a href="http://codepen.io/rbrishabh">@rbrishabh</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+      <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script></div>
+  
+        
+  
+    </div></div><br><br><br>
+  <div class="row contback" id="contact">
+
+    <div class="padding"><font size="7" class="text-center lol">Get in touch:<hr>
+      </font><br><div class="col-md-8">
+
+      </font><br>
+        <a target="_blank" class="pdg" href="https://www.instagram.com/RBRISHABH/"><button class="btn btn-default"><h4><i class="fa fa-instagram" aria-hidden="true"><br>Instagram</i></h4></button></a><br>
+                <a target="_blank" href="https://plus.google.com/u/0/104461007782859035674"><button class="btn btn-default"><i class="fa fa-google-plus" aria-hidden="true"><h4>Google+</h4></i></button></a><br>
+                <a target="blank"  href="https://www.freecodecamp.com/ardentgrasper"> <button class="btn btn-default"><i class="fa fa-free-code-camp" aria-hidden="true"><h4>FreeCodeCamp</h4></i></button></a>
+<br>
+                <a target="_blank"  href="https://github.com/ArdentGrasper"> <button class="btn  btn-default"><h4><i class="fa fa-github" aria-hidden="true"></i><br>Github</h4></button></a><br>
+                <a target="_blank" href="https://www.linkedin.com/in/rishabh-budhiraja-21bb73124/"> <button class="btn btn-default"><i class="fa fa-linkedin" aria-hidden="true"><h4>Linkedin</h4></i></button></a></div></div><div class="col-md-4 hmm">  <font size="7">Email me:                 <br><a class="text-center k" href="mailto:rishabh.budhiraja@gmail.com">rishabh.budhiraja@gmail.com</a></h1></div>
+  </div>
+      </div></div>
+  
+   <div class="footer">
+      <h3 class="lolo">
+        <a href="#contact" target="_blank">Rishabh Budhiraja - </a>
+         <a href="#portfolio">Portfolio | </a>
+         <a href="#about">About |  </a>
+         <a href="#contact">Contact </a>
+      </h3>
+      <h2 class=loloo>Copyright © RB. All Rights Reserved.
+</h2>
+    </div>
+</body>
+
